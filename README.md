@@ -1,5 +1,5 @@
 # Multifunctional-Robot-for-Precision-Procedures-Mk1
-Designing a manipulator with 5 degrees of freedom capable of .
+Currenty working on it.
 <img width="1142" height="762" alt="image" src="https://github.com/user-attachments/assets/4b21a894-01b0-4bf9-8f92-cffac518a07a" />
 ## Firmware Architecture
 Undergoing
